@@ -1,1 +1,3 @@
-# digitalt3-learning-platform-310928
+# Project Repository
+
+This is the initial README file for the project.
